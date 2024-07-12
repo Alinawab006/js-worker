@@ -1,0 +1,6 @@
+domains:
+- js-worker-Alinawab006.wasmer.app
+kind: wasmer.io/App.v0
+name: alinawab07865-js-worker
+owner: alinawab07865
+package: .
